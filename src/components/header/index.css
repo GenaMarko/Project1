@@ -1,0 +1,13 @@
+.head
+{
+    height: 50px;
+    width: 100%;
+    background-color: rgba(123, 69, 147, 0.467);
+    border-radius: 15px;
+    grid-area: h;
+}
+.head img
+{
+width: 50px;
+border-radius: 25px;
+}
